@@ -1,0 +1,7 @@
+<!DOCTYPE html> <!-- Declara el tipo de documento como HTML5 -->
+<html lang="en"> <!-- Abre el documento HTML y establece el idioma como inglés -->
+<head> 
+    <meta charset="UTF-8"> <!-- Define la codificación de caracteres como UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura la vista para dispositivos móviles -->
+    <title>Corazón SVG</title> <!-- Título del documento que se muestra en la pestaña del navegador -->
+</head>
