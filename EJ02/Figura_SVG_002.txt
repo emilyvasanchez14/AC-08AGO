@@ -1,0 +1,11 @@
+<!DOCTYPE html> <!-- Declara el tipo de documento como HTML5 -->
+<html lang="en"> <!-- Abre el documento HTML y establece el idioma como inglés -->
+<head> 
+    <meta charset="UTF-8"> <!-- Define la codificación de caracteres como UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura la vista para dispositivos móviles -->
+    <title>Corazón SVG</title> <!-- Título del documento que se muestra en la pestaña del navegador -->
+</head>
+<body>
+    <!-- Contenido del cuerpo del documento HTML -->
+    <!-- Corazón SVG en HTML -->
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"> <!-- Define el área de dibujo del SVG con un tamaño de 200x200 píxeles y un viewBox que establece el sistema de coordenadas internas para el SVG -->
